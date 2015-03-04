@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  TableViewCell.h
 //  ClearStyle
 //
 //  Created by Jaewon Choi on 2015. 3. 4..
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController <UITableViewDataSource, UITableViewDelegate>
-
+@interface TableViewCell : UITableViewCell
 
 @end
-
